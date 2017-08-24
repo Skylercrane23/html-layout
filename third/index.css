@@ -1,0 +1,38 @@
+body {
+    margin: 0 auto;
+}
+
+div.nav {
+    height: 110px;
+    width: 100%;
+    background-color: #999999;
+}
+div.logo {
+    background-color: #2F6FDF;
+    height: 90px;
+    width: 90px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+p {
+    font-size: 22px;
+    line-height: 125%;
+    padding: 40px;
+}
+div.stripe {
+    height: 110px;
+    width: 100%;
+}
+div.blue {
+    background-color: #2F6FDF;
+}
+div.green {
+    background-color: #5FCFB0;
+}
+div.mustard {
+    background-color: #B4CB78;
+}
+div.yellow {
+    background-color: #EDE335;
+}
